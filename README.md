@@ -6,3 +6,4 @@ This repository contains the tasks and solutions completed during the Machine Le
 - Supervised and unsupervised classification tasks
 - Beginner to advanced machine learning problems
 
+Each notebook focuses on practical implementation and experimentation using Python and popular ML libraries such as NumPy, Pandas, Scikit learn, and more.
